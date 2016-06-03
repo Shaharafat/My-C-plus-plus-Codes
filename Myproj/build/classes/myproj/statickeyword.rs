@@ -1,0 +1,2 @@
+myproj.statickeyword
+myproj.Ab
